@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="RKAINS007" failures="0" tests="1" name="webs.Amazon" time="11.073" errors="0" timestamp="25 Aug 2023 04:39:15 GMT">
+  <testcase classname="webs.Amazon" name="jioMart" time="11.048"/>
+</testsuite>
